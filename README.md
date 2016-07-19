@@ -1,1 +1,5 @@
-# js_cool_stuff
+# javascript_cool_stuff
+
+# useful functions and algorithms
+
+# and other useful tips
