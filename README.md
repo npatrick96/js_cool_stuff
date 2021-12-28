@@ -1,5 +1,4 @@
-# javascript_cool_stuff
+# JavaScript Basics
 
-# useful functions and algorithms
-
-# and other useful tips
+Misc code snippets and useful functions.
+Useful for programming practice and interview prep.
